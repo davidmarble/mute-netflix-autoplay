@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name Mute Netflix Autoplay Trailers
-// @namespace davidmarble.com
-// @match *://*.netflix.com/*
-// @version            0.1
-// @homepage           https://github.com/davidmarble/mute-netflix-autoplay
-// @description        Mute all autoplaying trailers when browsing Netflix
-// @author             davidmarble
-// @license            MIT License
-// @grant none
+// @name           Mute Netflix Autoplay Trailers
+// @namespace      davidmarble.com
+// @match          *://*.netflix.com/*
+// @version        0.1
+// @homepage       https://github.com/davidmarble/mute-netflix-autoplay
+// @description    Mute all autoplaying trailers when browsing Netflix
+// @author         davidmarble
+// @license        MIT License
+// @grant          none
 // ==/UserScript==
 
 // Target node for observing mutations
