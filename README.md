@@ -1,7 +1,8 @@
 # mute-netflix-autoplay
 
-*Purpose:* Mute all autoplaying trailers when browsing Netflix
-*Installation:* First, install one of the user script browser extensions (read the homepage of https://greasyfork.org/), then install the script by visiting here: https://greasyfork.org/en/scripts/371328-mute-netflix-autoplay-trailers
+**Purpose:** Mute all autoplaying trailers when browsing Netflix
+
+**Installation:** First, install one of the user script browser extensions (read the homepage of https://greasyfork.org/), then install the script by visiting here: https://greasyfork.org/en/scripts/371328-mute-netflix-autoplay-trailers
 
 > Dear Netflix,
 > 
